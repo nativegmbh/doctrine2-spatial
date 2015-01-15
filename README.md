@@ -65,6 +65,8 @@ Currently the following SQL functions are supported in DQL (more coming):
 * MBRContains
 * MBRDisjoint
 * StartPoint
+* LineString
+* Point
 
 ## Setup/Installation
 
